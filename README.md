@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img src="https://storyset.com/illustration/raining/pana#default&hide=&hide=false" style="width:100px;" />
+<img src="./virtual-reality.svg" style="width:200px;" />
 </p>
 <p align="center"><a href="https://storyset.com/technology"><small>Technology illustrations by Storyset</small></a></p>
 <h1 align="center">Hop Hop Pocket</h1>
